@@ -9,7 +9,8 @@ import BurgerStack from './assets/components/BurgerStack.jsx';
 
 const App = () => {
 
-  const availableIngredients = [
+  // took export oiut
+const availableIngredients = [
       { name: 'Kaiser Bun', color: 'saddlebrown' },
       { name: 'Sesame Bun', color: 'sandybrown' },
       { name: 'Gluten Free Bun', color: 'peru' },
